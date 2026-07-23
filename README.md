@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="logo-mark.png" width="112" height="112" alt="机场YYDS" />
-
-# 机场YYDS
-
-**可核实的机场数据**
+<a href="https://www.jichangyyds.com/"><img src="banner.png" alt="机场YYDS · 可核实的机场数据 · 晚高峰实测 / 域名年限核实 / 风险名单公开" width="100%" /></a>
 
 不做「收录一百家」的清单，只保留能查到独立官网、能跑出实测数据的品牌
-
-<br>
 
 [![主站](https://img.shields.io/badge/主站-www.jichangyyds.com-3a86ff?style=for-the-badge)](https://www.jichangyyds.com/)
 [![排行榜](https://img.shields.io/badge/排行榜-16_家实测-3aef95?style=for-the-badge)](https://www.jichangyyds.com/rank/)
