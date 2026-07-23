@@ -6,7 +6,7 @@
 
 [![主站](https://img.shields.io/badge/主站-www.jichangyyds.com-3a86ff?style=for-the-badge)](https://www.jichangyyds.com/)
 [![排行榜](https://img.shields.io/badge/排行榜-16_家实测-3aef95?style=for-the-badge)](https://www.jichangyyds.com/rank/)
-[![风险名单](https://img.shields.io/badge/风险名单-23_家标注-ff5c5c?style=for-the-badge)](https://www.jichangyyds.com/scam/)
+[![风险名单](https://img.shields.io/badge/风险名单-21_家标注-ff5c5c?style=for-the-badge)](https://www.jichangyyds.com/scam/)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 精选 16 家机场，**865 个节点**晚高峰实测。
 
-含价格档位、线路类型、优惠码，以及 23 家风险名单。
+含价格档位、线路类型、优惠码，以及 21 家风险名单。
 
 </td>
 <td width="50%" valign="top">
